@@ -83,23 +83,6 @@ const andre = {
 
 ---
 
-# 🖥️ Terminal
-
-````md
-```bash
-> sudo pacman -S future
-
-resolving dependencies...
-looking for conflicts...
-
-Packages (1) success-1.0.0
-
-:: Proceed with installation? [Y/n]
-```bash
-````
-
----
-
 <div align="center">
 
 > “Code. Create. Improve.”
