@@ -1,16 +1,15 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=STIX+Two+Math&weight=600&size=60&pause=1000&center=true&vCenter=true&width=1500&height=70&lines=Hi+Everyone%2C+I'm+Andreas+Rajendra+N;A+UI%2FUX+Designer+and+Web+Development)](https://git.io/typing-svg)
+# JustForget
 
-<!--
-**JustForget14/JustForget14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di Github Saya. Suka ngoding, Suka Desain, dan suka Olahraga.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+```js
+const andre = {
+  name: "Andreas Rajendra Nurcahyo",
+  role: "UI/UX Designer, Web Development & Game Development",
+  language: ["PHP", "HTML", "CSS"],
+  framework: ["Laravel"],
+  database: ["MySQL"],
+  status: "Student High School"
+}
